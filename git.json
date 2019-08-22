@@ -1,4 +1,10 @@
 {
-	"name" : "Yash",
-	"Tagline" : "Stay Hungry. Stay Selfish"
-}
+	"1": {
+	  "name": "yash",
+	  "tagline": "Stay Hungry. Stay Selfish"
+	},
+	"2": {
+	  "name": "sanath",
+	  "tagline": "Code is like humor. When you have to explain it, it’s bad"
+	}
+  }
