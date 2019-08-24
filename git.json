@@ -1,4 +1,4 @@
-{
+﻿{
 	"1": {
 	  "name": "yash",
 	  "tagline": "Stay Hungry. Stay Selfish"
@@ -11,14 +11,26 @@
 	"3": {
 	  "name": "mohan",
 	  "tagline": "Prabhas is alot stronger than my code"
-	}
-        "4": {
+	},
+   
+   "4": {
            "name": "saikiran",
             "tagline": "I hate open source pizza"
+        },
 
-        }
+  "5": {
+	  "name": "vipul",
+	  "tagline": "Right day to learn is today"
+	},
+
+	"6": {
+	  "name": "Vineeth",
+	  "tagline": "I love HTML"
+	}
+
   
 
-	
-  }
+
+
+ }
 
