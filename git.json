@@ -1,4 +1,4 @@
-﻿{
+﻿	{
 	"1": {
 	  "name": "yash",
 	  "tagline": "Stay Hungry. Stay Selfish"
@@ -100,10 +100,11 @@
 			"name": "Teja Kadiyala",
 			"tagline": "I'm so fresh, they call me Febreeze"
 	},
+
 	 "22":{
 			"name": "Chaitanya",
 			"tagline": "Try to become a pro in whatever you do!"
-	},
+	}
 	
 }
 
