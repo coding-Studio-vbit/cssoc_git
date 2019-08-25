@@ -47,23 +47,26 @@
  "10": {
 	  "name": "saravanan",
 	  "tagline": "I'm a barbie girl"
-	}
+	},
 "11":{
 	 "name":"navyasree",
 	 "tagline":"follow your dream"
- }
+ },
 
  "12":{
 	 "name":"Aaris Khan",
 	 "tagline":"Life is soup, I am Fork"
- }
+ },
 
-
- }
-"13": {
+ "13": {
           "name": "vaishnavi ",
            "tagline": "Inspire the change"
-}
+},
+
+	"14": {
+		"name" : "Amit",
+		"tagline" : "I'm John Wick"
+	},
 
 
 }
