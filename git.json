@@ -1,4 +1,4 @@
-﻿{
+{
 	"1": {
 	  "name": "yash",
 	  "tagline": "Stay Hungry. Stay Selfish"
@@ -103,7 +103,11 @@
 	"22":{
             "name": "Vinaya sree",
             "tagline":"Introspecting and indulging things endlessly"
-},  
+},
+  "22":{
+            "name": "Shruthi Garlapati",
+            "tagline":"Obliviously Unaware"
+    },
 	
 }
 
