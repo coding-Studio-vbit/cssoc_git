@@ -3,7 +3,8 @@
 	  		"name": "yash",
 	  		"tagline": "Stay Hungry. Stay Selfish"
 	},
-	"2": {
+	
+	 "2": {
 	  		"name": "sanath",
 	  		"tagline": "Code is like humor. When you have to explain it, it’s bad"
 	},
@@ -15,7 +16,7 @@
    
 	"4": {
 			"name": "saikiran",
-            "tagline": "I hate open source pizza"
+            		"tagline": "I hate open source pizza"
 	},
 
 	"5": {
@@ -27,7 +28,7 @@
 			"name": "Vineeth",
 			"tagline": "I love HTML"
 	},
-    "7": {
+    	"7": {
 			"name": "Poojitha",
 			"tagline": "Be you bravely"
 	},
@@ -40,13 +41,14 @@
 	"9": {
 			"name": "chandrika",
 			"tagline":"Be positive and slay"
-    },
+    	},
   
 	"10": {
 			"name": "saravanan",
 			"tagline": "I'm a barbie girl"
 	},
-	"11":{
+	
+	 "11":{
 			"name":"navyasree",
 			"tagline":"follow your dream"
 	},
@@ -71,7 +73,7 @@
 			"tagline": "Never plan the things!!"
 	},
 	 
-	 "16":{
+	"16":{
 			"name": "L Koushik Srivastav",
 			"tagline": "Work Hard play hard!"
 	},
@@ -100,13 +102,15 @@
 			"name": "Teja Kadiyala",
 			"tagline": "I'm so fresh, they call me Febreeze"
 	},
-	"22":{
-            "name": "Vinaya sree",
-            "tagline":"Introspecting and indulging things endlessly"
-    }, 
-    "23":{
-    		"name": "Akshath",
-    		"tagline":"Mass Ka Das"
-    } 
+	
+	 "22":{
+            		"name": "Vinaya sree",
+            		"tagline":"Introspecting and indulging things endlessly"
+    	}, 
+    	
+	 "23":{
+    			"name": "Akshath",
+    			"tagline":"Mass Ka Das"
+    	} 
 	
 }
