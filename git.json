@@ -15,8 +15,8 @@
 	},
    
 	"4": {
-			"name": "saikiran",
-            		"tagline": "I hate open source pizza"
+			  "name": "saikiran",
+        "tagline": "I hate open source pizza"
 	},
 
 	"5": {
@@ -32,7 +32,7 @@
 			"name": "Poojitha",
 			"tagline": "Be you bravely"
 	},
-  
+
 	"8": {
 			"name": "santosh",
 			"tagline": "make a bold move "
@@ -41,16 +41,31 @@
 	"9": {
 			"name": "chandrika",
 			"tagline":"Be positive and slay"
-    	},
+    },
   
 	"10": {
 			"name": "saravanan",
 			"tagline": "I'm a barbie girl"
 	},
-	
+
 	"11":{
 			"name":"navyasree",
 			"tagline":"follow your dream"
+	},
+   
+	"12":{
+			"name":"Aaris Khan",
+			"tagline":"Life is soup, I am Fork"
+	},
+
+	"13": {
+			"name": "vaishnavi ",
+			"tagline": "Inspire the change"
+	},
+   
+	"14": {
+			"name" : "Amit",
+			"tagline" : "I'm John Wick"
 	},
 
 	"12":{
@@ -69,6 +84,45 @@
 	},
 
 	"15": {
+			"name": "Ajay Vardhan Reddy ",
+			"tagline": "Never plan the things!!"
+	},
+	 
+	 "16":{
+			"name": "L Koushik Srivastav",
+			"tagline": "Work Hard play hard!"
+	},
+
+	"17":{
+			"name": "Chinmaya",
+			"tagline": "Talk is Cheap Show me the Code.",
+	},
+	 
+	"18":{
+			"name": "dinesh",
+			"tagline": "think crazy do crazy"
+	},
+	
+	"19":{
+			"name": "K Vishnu Vardhan",
+			"tagline": "Conspires to Inspire!"
+	},
+
+	"20":{
+			"name": "Yasaswi Raj",
+			"tagline": "Your friendly neighborhood Spiderman xD"
+	},
+
+	"21":{
+			"name": "Teja Kadiyala",
+			"tagline": "I'm so fresh, they call me Febreeze"
+	},
+	"22":{
+            "name": "Vinaya sree",
+            "tagline":"Introspecting and indulging things endlessly"
+  },
+	
+   "15": {
 			"name": "Ajay Vardhan Reddy ",
 			"tagline": "Never plan the things!!"
 	},
@@ -103,14 +157,14 @@
 			"tagline": "I'm so fresh, they call me Febreeze"
 	},
 	
-	 "22":{
+	"22":{
             		"name": "Vinaya sree",
             		"tagline":"Introspecting and indulging things endlessly"
-    	}, 
+  }, 
     	
-	 "23":{
+  "23":{
     			"name": "Akshath",
     			"tagline":"Mass Ka Das"
-    	} 
+   } 
 	
 }
