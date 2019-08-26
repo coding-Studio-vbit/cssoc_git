@@ -1,43 +1,112 @@
 ﻿{
 	"1": {
-	  "name": "yash",
-	  "tagline": "Stay Hungry. Stay Selfish"
+	  		"name": "yash",
+	  		"tagline": "Stay Hungry. Stay Selfish"
 	},
 	"2": {
-	  "name": "sanath",
-	  "tagline": "Code is like humor. When you have to explain it, it’s bad"
+	  		"name": "sanath",
+	  		"tagline": "Code is like humor. When you have to explain it, it’s bad"
 	},
 
 	"3": {
-	  "name": "mohan",
-	  "tagline": "Prabhas is alot stronger than my code"
+	  		"name": "mohan",
+	  		"tagline": "i don't have an attitude!! i have a personality you can't handle!!"
 	},
    
-   "4": {
-           "name": "saikiran",
+	"4": {
+			"name": "saikiran",
             "tagline": "I hate open source pizza"
-        },
+	},
 
-  "5": {
-	  "name": "vipul",
-	  "tagline": "Right day to learn is today"
+	"5": {
+			"name": "vipul",
+			"tagline": "Right day to learn is today"
 	},
 
 	"6": {
-	  "name": "Vineeth",
-	  "tagline": "I love HTML"
+			"name": "Vineeth",
+			"tagline": "I love HTML"
 	},
     "7": {
-	  "name": "Poojitha",
-	  "tagline": "Be you bravely"
-	}
-  
- "8": {
-	  "name": "santosh",
-	  "tagline": "make a bold move "
+			"name": "Poojitha",
+			"tagline": "Be you bravely"
 	},
   
+	"8": {
+			"name": "santosh",
+			"tagline": "make a bold move "
+	},
 
+	"9": {
+			"name": "chandrika",
+			"tagline":"Be positive and slay"
+    },
+  
+	"10": {
+			"name": "saravanan",
+			"tagline": "I'm a barbie girl"
+	},
+	"11":{
+			"name":"navyasree",
+			"tagline":"follow your dream"
+	},
 
- }
+	"12":{
+			"name":"Aaris Khan",
+			"tagline":"Life is soup, I am Fork"
+	},
 
+	"13": {
+			"name": "vaishnavi ",
+			"tagline": "Inspire the change"
+	},
+   
+	"14": {
+			"name" : "Amit",
+			"tagline" : "I'm John Wick"
+	},
+
+	"15": {
+			"name": "Ajay Vardhan Reddy ",
+			"tagline": "Never plan the things!!"
+	},
+	 
+	 "16":{
+			"name": "L Koushik Srivastav",
+			"tagline": "Work Hard play hard!"
+	},
+
+	"17":{
+			"name": "Chinmaya",
+			"tagline": "Talk is Cheap Show me the Code.",
+	},
+	 
+	"18":{
+			"name": "dinesh",
+			"tagline": "think crazy do crazy"
+	},
+	
+	"19":{
+			"name": "K Vishnu Vardhan",
+			"tagline": "Conspires to Inspire!"
+	},
+
+	"20":{
+			"name": "Yasaswi Raj",
+			"tagline": "Your friendly neighborhood Spiderman xD"
+	},
+
+	"21":{
+			"name": "Teja Kadiyala",
+			"tagline": "I'm so fresh, they call me Febreeze"
+	},
+	"22":{
+            "name": "Vinaya sree",
+            "tagline":"Introspecting and indulging things endlessly"
+    }, 
+    "23":{
+    		"name": "Akshath",
+    		"tagline":"Mass Ka Das"
+    } 
+	
+}
