@@ -3,6 +3,7 @@
 	  "name": "yash",
 	  "tagline": "Stay Hungry. Stay Selfish"
 	},
+
 	"2": {
 	  "name": "sanath",
 	  "tagline": "Code is like humor. When you have to explain it, it’s bad"
@@ -27,6 +28,7 @@
 			"name": "Vineeth",
 			"tagline": "I love HTML"
 	},
+
     "7": {
 			"name": "Poojitha",
 			"tagline": "Be you bravely"
@@ -46,6 +48,7 @@
 			"name": "saravanan",
 			"tagline": "I'm a barbie girl"
 	},
+
 	"11":{
 			"name":"navyasree",
 			"tagline":"follow your dream"
@@ -71,7 +74,7 @@
 			"tagline": "Never plan the things!!"
 	},
 	 
-	 "16":{
+	"16":{
 			"name": "L Koushik Srivastav",
 			"tagline": "Work Hard play hard!"
 	},
@@ -100,22 +103,31 @@
 			"name": "Teja Kadiyala",
 			"tagline": "I'm so fresh, they call me Febreeze"
 	},
+
 	"22":{
             "name": "Vinaya sree",
             "tagline":"Introspecting and indulging things endlessly"
 	},  
+
 	"23":{
 			"name": "Axai",
 			"tagline":"In the busy hustle of today, remember to live a little."
 	}, 
+
 	"24":{
 			"name": "Shruthi Garlapati",
 			"tagline":"Obliviously Unaware"
 	},  
-	 "25":{         
+
+	"25":{         
 		        "name": "sravan kumar",
 		        "tagline":"oppertunities are the ways to success."
-	 },	 
+	},
+
+	"26":{         
+		        "name": "kaustubh",
+		        "tagline":"bisleri is better than kinley"
+	},	 
 	
 }
 
