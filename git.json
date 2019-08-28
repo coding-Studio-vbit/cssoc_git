@@ -127,12 +127,28 @@
 	"26":{         
 		        "name": "kaustubh",
 		        "tagline":"bisleri is better than kinley"
+
 	},
 	
 	"27":{         
 		"name": "Akshath",
 		"tagline":"Everything is impossible until somebody does it."
 	},
+
+
+	},	 
+	"28":{
+			"name": "B.Vinay Kumar Reddy",
+			"tagline":"Always feed your curiosity"
+	},
+
+	
+    "29":{         
+		        "name": "Ramu",
+		        "tagline":"Copy cat"
+	}
+
+
 	
 }
 
