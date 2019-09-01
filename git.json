@@ -127,8 +127,7 @@
 	"26":{         
 		        "name": "kaustubh",
 		        "tagline":"bisleri is better than kinley"
-
-	},
+	},	 
 	
 	"27":{         
 		"name": "Akshath",
@@ -146,16 +145,21 @@
     "29":{         
 		        "name": "Ramu",
 		        "tagline":"Copy cat"
-	}
+	},
    "30":{         
 		        "name": "G.Vinay Kumar Reddy",
 		        "tagline":"Impossible is just my opinion"
-	}
+	},
 "31":{
 			"name": "Anisha",
 			"tagline":"Keep Calm Se Kaam"
-	} 
+	},
    "32":
          {
                         "name": "Makam saikumar", 
                         "tagline":"pure alcoholic"
+         },
+"33":{
+				"name": "Kodanda ram",
+				"tagline":"The never knowing story"
+	}
