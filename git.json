@@ -117,6 +117,7 @@
 	"24":{
 			"name": "Shruthi Garlapati",
 			"tagline":"Obliviously Unaware"
+<<<<<<< HEAD
 	}, 
 	 
 		"25":{         
@@ -128,6 +129,13 @@
 		        "name": "kaustubh",
 		        "tagline":"bisleri is better than kinley"
 	},	 
+=======
+	},  
+    "24":{
+			"name": "test",
+			"tagline":"Remember to live a little."
+	},  
+>>>>>>> 726680a3b8b155efa93235e4332c327e8e238e84
 	
 	"27":{         
 		"name": "Akshath",
